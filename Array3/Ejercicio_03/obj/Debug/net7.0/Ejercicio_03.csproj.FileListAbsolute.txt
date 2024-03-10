@@ -1,0 +1,15 @@
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\bin\Debug\net7.0\Ejercicio_03.exe
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\bin\Debug\net7.0\Ejercicio_03.deps.json
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\bin\Debug\net7.0\Ejercicio_03.runtimeconfig.json
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\bin\Debug\net7.0\Ejercicio_03.dll
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\bin\Debug\net7.0\Ejercicio_03.pdb
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.csproj.AssemblyReference.cache
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.AssemblyInfoInputs.cache
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.AssemblyInfo.cs
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.csproj.CoreCompileInputs.cache
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.dll
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\refint\Ejercicio_03.dll
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.pdb
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\Ejercicio_03.genruntimeconfig.cache
+C:\Users\Natalia\Desktop\Array3\Array3\Ejercicio_03\obj\Debug\net7.0\ref\Ejercicio_03.dll
